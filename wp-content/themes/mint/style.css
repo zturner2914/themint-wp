@@ -1,0 +1,18 @@
+/*
+Theme Name: mint
+Description: The MINT Studio
+Version: 1.2
+Author: Zach Turner
+Author URI: http://martinwilliams.com
+
+Tags: starting point, basic, Bootstrap 3.3.4
+
+The CSS and HTML are released under the GPL:
+http://www.opensource.org/licenses/gpl-3.0.html
+*/
+
+
+@import "css/bootstrap.min.css";
+@import "css/typography.css";
+@import "css/global.css";
+@import "css/layout.css";

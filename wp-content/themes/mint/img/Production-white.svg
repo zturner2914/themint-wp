@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="86px" viewBox="0 0 119 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="-Exploration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Process" transform="translate(-899.000000, -1004.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group" transform="translate(900.000000, 1005.000000)">
+                <polygon id="Stroke-1858" points="0 83.9709443 116.794764 83.9709443 116.794764 0 0 0"></polygon>
+                <path d="M0,29.6368039 L116.794764,29.6368039" id="Stroke-1859"></path>
+                <path d="M0,14.8184019 L116.794764,14.8184019" id="Stroke-1860"></path>
+                <polyline id="Stroke-1861" points="22.8511495 0 38.0852492 14.8184019 22.8511495 29.6368039"></polyline>
+                <polyline id="Stroke-1862" points="53.3193489 0 68.5534486 14.8184019 53.3193489 29.6368039"></polyline>
+                <polyline id="Stroke-1863" points="83.7875482 0 99.0216479 14.8184019 83.7875482 29.6368039"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
