@@ -4,4 +4,4 @@ A custom built wordpress website for a small content studio. With help with an a
 * Javascript/Jquery
 * HTML/CSS
 * PHP
-* mysql
+* Sequel
